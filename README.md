@@ -1,6 +1,6 @@
 # Ai Image Maker
 
-This app uses openai to generate images based on user descriptions. The app uses MongoDB and Cloudinary for storage. 
+This app uses openai to generate images based on user descriptions. The app uses MongoDB and Cloudinary for storage. You can try it out:
 
 
 
